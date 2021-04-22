@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\bin\Debug\netcoreapp3.1\MusicMarket.Services.deps.json
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\bin\Debug\netcoreapp3.1\MusicMarket.Services.dll
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\bin\Debug\netcoreapp3.1\MusicMarket.Services.pdb
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\bin\Debug\netcoreapp3.1\MusicMarket.Core.dll
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\bin\Debug\netcoreapp3.1\MusicMarket.Core.pdb
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\obj\Debug\netcoreapp3.1\MusicMarket.Services.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\obj\Debug\netcoreapp3.1\MusicMarket.Services.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\obj\Debug\netcoreapp3.1\MusicMarket.Services.AssemblyInfo.cs
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\obj\Debug\netcoreapp3.1\MusicMarket.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\obj\Debug\netcoreapp3.1\MusicMarket.Services.csproj.CopyComplete
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\obj\Debug\netcoreapp3.1\MusicMarket.Services.dll
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Services\obj\Debug\netcoreapp3.1\MusicMarket.Services.pdb

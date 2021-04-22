@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\bin\Debug\netcoreapp3.1\MusicMarket.Core.deps.json
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\bin\Debug\netcoreapp3.1\MusicMarket.Core.dll
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\bin\Debug\netcoreapp3.1\MusicMarket.Core.pdb
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.AssemblyInfo.cs
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.dll
+C:\Users\USER\source\repos\MusicMarket\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.pdb
